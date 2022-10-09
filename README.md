@@ -1,5 +1,7 @@
 # -CUS1115-TemperatureLoop
 
+Used keyboard input for Fahrenheit to then convert it to Celcius, 
+
 /*
 Fahrenheit 0
 Temperature in Celsius: -17.7777777776
