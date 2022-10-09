@@ -1,6 +1,6 @@
 # -CUS1115-TemperatureLoop
 
-Used keyboard input for Fahrenheit to then convert it to Celcius, 
+Temperature Converter. Fahrenheit to Celcius. 
 
 /*
 Fahrenheit 0
